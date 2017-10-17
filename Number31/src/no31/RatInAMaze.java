@@ -65,7 +65,7 @@ public class RatInAMaze {
 	}
 	public static void main(String[] args) {
             
-		int N = 6;
+		int N = 5;
 		int[][] maze = { { 1, 0, 1, 1,1 }, { 1, 1, 1, 0,1 }, { 0, 0,0, 1, 1 },
 				{ 0, 0, 0, 1,0 },{ 0, 0,0, 1, 1 } };
 		RatInAMaze r = new RatInAMaze(N);
